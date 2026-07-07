@@ -14,4 +14,8 @@ Kept continuously from day one (ISEF requires a continuous project logbook).
 - Pushed the repository to GitHub (public).
 - **Step 1 (environment setup) complete.** Next: continue Phase 1 skills; work toward the August milestone — batch-download RSV genomes from NCBI and build metadata.csv (>= 2000 sequences).
 
+## 2026-07-08 — RSV-A vs RSV-B reference genomes
+- Switched the script to NC_038235 (RSV-A) and compared it to RSV-B (NC_001781): both have the same 10 genes in the same order and nearly the same length (RSV-A 15,222 bp vs RSV-B 15,225 bp).
+- Genes sit at slightly different positions, and the G gene length differs (RSV-A 923 bp vs RSV-B 926 bp) while the N gene is identical (1124-2327) in both — same genome layout, different sequence.
+
 <!-- Add a new dated entry every working session: what I did, commands run, decisions made, results, and what is next. -->

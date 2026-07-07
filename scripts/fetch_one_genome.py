@@ -13,7 +13,7 @@ Entrez.email = "dgary0501@gmail.com"
 
 # NC_001781 = the RefSeq reference genome for RSV-B (human orthopneumovirus B).
 # (Try NC_038235 later for the RSV-A reference.)
-accession = "NC_001781"
+accession = "NC_038235"
 
 # efetch = "fetch a record from NCBI". Ask the 'nucleotide' database for this
 # accession, in GenBank format ("gb"), returned as plain text.
