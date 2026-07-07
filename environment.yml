@@ -1,0 +1,11 @@
+name: rsv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - biopython
+prefix: /Users/garydong/miniforge3/envs/rsv
